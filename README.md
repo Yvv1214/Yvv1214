@@ -1,4 +1,4 @@
-<div background="blue"><h1 align="center">Hi 👋, I'm Yaira</h1></div>
+<h1 align="center">Hi 👋, I'm Yaira</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yvv1214?tab=repositories](https://github.com/Yvv1214?tab=repositories)
