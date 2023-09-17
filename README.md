@@ -16,10 +16,11 @@
 - ⚡ Fun fact **I like video games &#127918;, gym &#x1F4AA;, fashion &#128526; and science &#128300;**
 
 <h3 align="left">Connect with me:</h3>
-<br>
+<p>
             <a href="https://www.linkedin.com/in/yaira-velez-6b216719b/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40 height="40" />
             </a>
+</p>
 <p align="left">
 </p>
 
