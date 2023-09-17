@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaira</h1>
+![cyberpunk-neon-xs-pattern-231215274](https://github.com/Yvv1214/Yvv1214/assets/39809411/187480bf-9125-44a9-9c15-b08ec1277203)
+
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yvv1214?tab=repositories](https://github.com/Yvv1214?tab=repositories)
