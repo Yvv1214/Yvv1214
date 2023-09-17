@@ -1,5 +1,5 @@
 <div>
-            <img src="https://github.com/Yvv1214/Yvv1214/assets/39809411/187480bf-9125-44a9-9c15-b08ec1277203"/>
+            <img src="https://github.com/Yvv1214/Yvv1214/assets/39809411/187480bf-9125-44a9-9c15-b08ec1277203" height="100"/>
             <h1 align="center">Hi 👋, I'm Yaira</h1>
 </div>
 
