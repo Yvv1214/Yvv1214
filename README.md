@@ -1,6 +1,7 @@
 <div>
-            <img src="(https://github.com/Yvv1214/Yvv1214/assets/39809411/187480bf-9125-44a9-9c15-b08ec1277203)"/>
-            <h1 align="center">Hi 👋, I'm Yaira</h1></div>
+            <img src="https://github.com/Yvv1214/Yvv1214/assets/39809411/187480bf-9125-44a9-9c15-b08ec1277203"/>
+            <h1 align="center">Hi 👋, I'm Yaira</h1>
+</div>
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
