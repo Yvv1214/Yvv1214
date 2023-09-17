@@ -1,5 +1,4 @@
-<div background-image: url('![cyberpunk-neon-pink-and-blue-skulls-and-mohawks-pattern-473526473](https://github.com/Yvv1214/Yvv1214/assets/39809411/6bf94eff-ca71-4d22-a863-4f6e5e520afd)
-');><h1 align="center">Hi 👋, I'm Yaira</h1></div>
+<div background="blue"><h1 align="center">Hi 👋, I'm Yaira</h1></div>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yvv1214?tab=repositories](https://github.com/Yvv1214?tab=repositories)
