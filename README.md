@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yaira-velez-6b216719b/](https://www.linkedin.com/in/yaira-velez-6b216719b/)
 
-- ⚡ Fun fact **I like video games, gym, fashion, and science**
+- ⚡ Fun fact **I like video games, gym &#x1F4AA;, fashion, and science**
 
 <h3 align="left">Connect with me:</h3>
 <br>
