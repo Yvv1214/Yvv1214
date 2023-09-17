@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I like video games, gym, fashion, and science**
 
-<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/yaira-velez-6b216719b/"><img src"https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg" alt="linkedin" width="4" height="40"/></a></h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/yaira-velez-6b216719b/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg" alt="linkedin" width="4" height="40"/></a></h3>
 <p align="left">
 </p>
 
