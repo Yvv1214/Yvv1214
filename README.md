@@ -5,6 +5,7 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/Yvv1214?tab=repositories](https://github.com/Yvv1214?tab=repositories)
 
 - 📫 How to reach me **94neongreen@gmail.com**
@@ -14,6 +15,10 @@
 - 👯 I’m looking to collaborate on ecommerce projects
 
 - ⚡ Fun fact **I like video games &#127918;, gym &#x1F4AA;, fashion &#128526; and science &#128300;**
+
+<div align="middle">
+            <img src="https://media.giphy.com/media/KD8XdwyGX863uRMpci/giphy.gif" width="380" height="380"/>
+<div/>
 
 <h3 align="left">Connect with me:</h3>
 <p>
