@@ -16,10 +16,10 @@
 
 - ⚡ Fun fact **I like video games &#127918;, gym &#x1F4AA;, fashion &#128526; and science &#128300;**
 
-<div align="middle">
-            <img src="https://media.giphy.com/media/KDQ25pahVfwGRvvT9X/giphy.gif" width="280" height="280"/>
-            <img src="https://media.giphy.com/media/KD8XdwyGX863uRMpci/giphy.gif" width="280" height="280"/>
-            <img src="https://media.giphy.com/media/iwnkdnExj1i92/giphy.gif" width="480" height="270"/>
+<div align="middle" border="black solid 1px">
+            <img src="https://media.giphy.com/media/KDQ25pahVfwGRvvT9X/giphy.gif" width="250" height="250"/>
+            <img src="https://media.giphy.com/media/KD8XdwyGX863uRMpci/giphy.gif" width="250" height="250"/>
+            <img src="https://media.giphy.com/media/iwnkdnExj1i92/giphy.gif" width="460" height="250"/>
 <div/>
 
 <h3 align="middle">Connect with me:</h3>
