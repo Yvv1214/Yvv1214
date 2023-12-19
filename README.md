@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yaira-velez-6b216719b/](https://www.linkedin.com/in/yaira-velez-6b216719b/)
 
-- 👯 I’m looking to collaborate on ecommerce projects
+- 👯 I’m looking to collaborate on ecommerce projects and applications utilizing AI
 
 - ⚡ Fun fact **I like video games &#127918;, gym &#x1F4AA;, fashion &#128526; and science &#128300;**
 
