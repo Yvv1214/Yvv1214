@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on ecommerce projects and applications utilizing AI
 
-- I am learning Angular, .Net, and AWS
+- I am learning OpenAi and PHP
 
 - ⚡ Fun fact **I like video games &#127918;, gym &#x1F4AA;, fashion &#128526; and science &#128300;**
 
