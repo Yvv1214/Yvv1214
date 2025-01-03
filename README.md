@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **94neongreen@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yaira-velez-6b216719b/](https://www.linkedin.com/in/yaira-velez-6b216719b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yaira-velez-6b216719b/](https://www.linkedin.com/)
 
 - 👯 I’m looking to collaborate on ecommerce projects and applications utilizing AI
 
