@@ -20,12 +20,6 @@
             <img src="https://media.giphy.com/media/iwnkdnExj1i92/giphy.gif" width="440" height="230"/>
 <div/>
 
-<h3 align="middle">Connect with me:</h3>
-<p>
-            <a href="https://www.linkedin.com/in/yaira-velez-6b216719b/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40 height="40" />
-            </a>
-</p>
 <p align="left">
 </p>
 
